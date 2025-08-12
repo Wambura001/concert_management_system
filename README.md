@@ -1,5 +1,5 @@
 # concert_management_system    
- CONCERT MANAGEMENT SYSTEM 
+ CONCERT MANAGEMENT SYSTEM  
  Enhancing Event Organization and Stakeholder Engagement
 BACHALOR’S OF SMART COMPUTING (BSC)
 DATA BASE MANAGEMNT AND SYSTEM
